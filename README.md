@@ -6,10 +6,12 @@
 
 1. sort repos by name || [click here](https://github.com/ephcoding?tab=repositories&q=&type=&language=&sort=name)
 1. types:
-    - **[ snippets ]** just 1 repo for now
+    - **[ course ]** not mine.  ones I've taken.  * I only share course code if the instructor already open-sourced it
     - **[ playground ]** used for nailing down topic/language concepts
     - **[ practice-app ]** pretty straight forward
-    - **[ course ]** not mine.  ones I've taken.  * I only share course code if the instructor already open-sourced it
+    - **[ snippets ]** just 1 repo for now
+    - **[ tutorial ]** not mine.  same rules as courses
+
 
 ## **| HOUSE RULES**
 
