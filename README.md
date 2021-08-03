@@ -1,17 +1,30 @@
-# **Code Home of Ephraim Smith**
+![ephcoding banner](./repo-banner__ephcoding.png)
 
-## **| NAVIGATING THE REPOS**
+<div align='center'>
+  <a href='https://www.ephcoding.com'>blog</a> |
+  <a href='https://github.com/ephcoding'>github</a> |
+  <a href='https://twitter.com/ephcoding'>twitter</a>
+</div>
 
-  - ***NAMING CONVENTION***: \<repo-type\>__repo-name  ( _2 underscores_ )
+# **Code Home of Ephraim (Eph) Smith**
 
-1. sort repos by name || [click here](https://github.com/ephcoding?tab=repositories&q=&type=&language=&sort=name)
-1. types:
-    - **[ course ]** not mine.  ones I've taken.  * I only share course code if the instructor already open-sourced it
-    - **[ playground ]** used for nailing down topic/language concepts
-    - **[ practice-app ]** pretty straight forward
-    - **[ snippets ]** just 1 repo for now
-    - **[ tutorial ]** not mine.  same rules as courses
+# **CURRENT PROJECTS**
 
+# **LEARNING**
+
+# **PROJECTS I'D BE DOWN FOR**
+
+(react, react native, nasa/space, tornadoes/severe weather)
+
+# **COULD USE SOME HELP..**
+
+# **FIND ME**
+
+## **| REPO TYPES**
+
+[app]
+[playground]
+[reference]
 
 ## **| HOUSE RULES**
 
