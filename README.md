@@ -30,6 +30,12 @@ _(set a goal to design-build-publish 1 [React Native](https://reactnative.dev) a
 
 # **GOIN' DEEP**
 
+- React Native
+- React
+- JavaScript
+- Node
+- Unit Testing
+
 # **PROJECTS I'D BE DOWN FOR**
 
 - **_ANYTHING_ React Native**
@@ -40,8 +46,6 @@ _(set a goal to design-build-publish 1 [React Native](https://reactnative.dev) a
 - severe weather / tornadoes
 
 # **COULD USE SOME HELP..**
-
-# **FIND ME**
 
 ## **| REPO TYPES**
 
