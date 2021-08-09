@@ -137,8 +137,6 @@ I'm not affiliated with anybody. Links are for YOU. We'll all get 'there' faster
 
 </details>
 
-<br>
-
 # **QUESTIONS**
 
 <details>
