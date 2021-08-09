@@ -44,8 +44,6 @@ I'm not affiliated with anybody. Links are for YOU. We'll all get 'there' faster
 
 </details>
 
-<br>
-
 <!-- #endregion /READ BEFORE READING -->
 
 # **ACTIVE PROJECTS**
@@ -81,8 +79,6 @@ I'm not affiliated with anybody. Links are for YOU. We'll all get 'there' faster
 
 </details>
 
-<br>
-
 # **GOIN' DEEP**
 
 <details>
@@ -116,8 +112,6 @@ I'm not affiliated with anybody. Links are for YOU. We'll all get 'there' faster
 
 </details>
 
-<br>
-
 # **COLLABORATION**
 
 <details>
@@ -131,8 +125,6 @@ I'm not affiliated with anybody. Links are for YOU. We'll all get 'there' faster
 - severe weather (tornadoes)
 
 </details>
-
-<br>
 
 # **`REPOS`**
 
@@ -155,8 +147,6 @@ I'm not affiliated with anybody. Links are for YOU. We'll all get 'there' faster
 _If you know the answer to any of these, send me your answer + resources and I'll post it here for the community. Thanks, in advance!_
 
 </details>
-
-<br>
 
 <!--
 - 🔭 I’m currently working on ...
