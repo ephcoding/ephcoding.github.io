@@ -13,22 +13,22 @@
 <details>
 <summary><strong><em>Seriously, read it >></em></strong></summary>
 
-## **`House Rules`**
+## `House Rules`
 
 Anything I'm playing close to the vest won't be public. If you can see it, it's fair game.
 
-## ``Quality Control`\*\*
+## `Quality Control`
 
 If somethings fucked, I want to know.
 
 - Email: ephraimjsmith@gmail.com
 - Twitter: [@ephcoding](https://twitter.com/ephcoding)
 
-## **`Links`**
+## `Links`
 
 I'm not affiliated with anybody. Links are for YOU. We'll all get 'there' faster sharing resources.
 
-## **`My Approach(es)`**
+## `My Approach(es)`
 
 - **_Building_**
 
@@ -84,31 +84,42 @@ I'm not affiliated with anybody. Links are for YOU. We'll all get 'there' faster
 <details>
 <summary><strong><em>Tech stack I'm learning >></em></strong></summary>
 
-- `JavaScript`
-  - [javascript.info](https://javascript.info/)
-  - [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
-  - [Udemy Course]() by []()
-  - [Udemy Course]() by []()
-- `TypeScript`
-  - [docs]()
-  - []()
-  - []()
-- `Node.js`
-  - [docs](https://nodejs.org/en/docs/)
-  - [Guides](https://nodejs.org/en/docs/guides/)
-  - [Udemy Course]() by []()
-  - [Udemy Course]() by []()
-- `React`
-  - [docs](https://reactjs.org/)
-  - [Udemy Course]() by [Academind]()
-  - [Udemy Course]() by [Brad Traversy]()
-- `React Native`
-  - [docs](reactnative.dev)
-  - [Udemy Course]() by []()
-  - [Udemy Course]() by []()
-  - [Udemy Course]() by []()
-- `Git`
-  - []()
+## `JavaScript`
+
+- [javascript.info](https://javascript.info/)
+- [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+- [Udemy Course]() by []()
+- [Udemy Course]() by []()
+
+## `TypeScript`
+
+- [docs]()
+- []()
+- []()
+
+## `Node.js`
+
+- [docs](https://nodejs.org/en/docs/)
+- [Guides](https://nodejs.org/en/docs/guides/)
+- [Udemy Course]() by []()
+- [Udemy Course]() by []()
+
+## `React`
+
+- [docs](https://reactjs.org/)
+- [Udemy Course]() by [Academind]()
+- [Udemy Course]() by [Brad Traversy]()
+
+## `React Native`
+
+- [docs](reactnative.dev)
+- [Udemy Course]() by []()
+- [Udemy Course]() by []()
+- [Udemy Course]() by []()
+
+## `Git`
+
+- []()
 
 </details>
 
@@ -131,9 +142,13 @@ I'm not affiliated with anybody. Links are for YOU. We'll all get 'there' faster
 <details>
 <summary><strong><em>How the code's organized >></em></strong></summary>
 
-[app]
-[playground]
-[reference]
+_sorting by **[name]** in Github will group repos by type:"_
+
+## `app__`
+
+## `playground__`
+
+## `reference__`
 
 </details>
 
