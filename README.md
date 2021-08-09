@@ -1,4 +1,4 @@
-![ephcoding banner](./twitter-banner-1500x500.png)
+![ephcoding banner](./assets/twitter-banner-1500x500.png)
 
 <div align='center'>
   <a href='https://www.ephcoding.com'>blog</a> |
@@ -8,27 +8,27 @@
 
 # **CURRENT PROJECTS**
 
-## [`ephcoding.com`](https://www.ephcoding.com)
+( target date )
+
+## [`ephcoding.com`](https://www.ephcoding.com) ( Aug 11 )
 
 - re-building the blog with Next.js as a static site using markdown for the posts
 - watch for a couple...err...blog posts about the build
 - hope to have this up by Wednesday
 
-## [`HOMR`](https://www.homrapp.com)
+## [`HOMR`](https://www.homrapp.com) mobile app ( Aug 31 )
 
-_(set a goal to design-build-publish 1 [React Native](https://reactnative.dev) app/month for the rest of the year.  this had more to do with just getting a feel for the React Native SDLC)_
+_(set a goal to design-build-publish 1 [React Native](https://reactnative.dev) app/month for the rest of the year. this had more to do with just getting a feel for the React Native SDLC)_
 
-- [HOMR](https://www.github.com/ephcoding/app__homr) mobile app| homeowner maintenance reminder app built with React Native
+## [`homrapp.com`](https://www.homrapp.com) ( Aug 11 )
 
-- [homrapp.com](https://www.homrapp.com) | landing page/product info site for HOMR mobile app
+- landing page/product info site for HOMR mobile app
 
-`Node REST API` | framework-free REST API using [Node.js](https://nodejs.org/en/)
+## `Node REST API` | framework-free REST API using [Node.js](https://nodejs.org/en/) ( Aug 31 )
 
 - shout out to [Brad Traversy](https://www.traversymedia.com) and his priceless collection of [Udemy Courses](https://www.udemy.com/user/brad-traversy/) & [YouTube tutorials](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
 
 # **GOIN' DEEP**
-
-
 
 # **PROJECTS I'D BE DOWN FOR**
 
@@ -40,8 +40,6 @@ _(set a goal to design-build-publish 1 [React Native](https://reactnative.dev) a
 - severe weather / tornadoes
 
 # **COULD USE SOME HELP..**
-
-
 
 # **FIND ME**
 
@@ -57,7 +55,7 @@ if you can see it, it's fair game
 
 ## **| SINCE YOU MADE IT THIS FAR**
 
-**BORN TO BUILD |**  Carpenter.  Construction Manager.  Heavy Equipment Operator.  Software Test-Dummie.
+**BORN TO BUILD |** Carpenter. Construction Manager. Heavy Equipment Operator. Software Test-Dummie.
 
 <!--
 **ephcoding/ephcoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
