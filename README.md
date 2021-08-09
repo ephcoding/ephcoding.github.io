@@ -6,7 +6,52 @@
     <a href='https://linkedin.com/in/ephraimjsmith'>LinkedIn</a>
 </div>
 
-# **CURRENT PROJECTS**
+<!-- #region READ BEFORE READING -->
+
+# **READ BEFORE READING**
+
+<details>
+<summary><strong><em>Seriously, read it >></em></strong></summary>
+
+## **`House Rules`**
+
+Anything I'm playing close to the vest won't be public. If you can see it, it's fair game.
+
+## ``Quality Control`\*\*
+
+If somethings fucked, I want to know.
+
+- Email: ephraimjsmith@gmail.com
+- Twitter: [@ephcoding](https://twitter.com/ephcoding)
+
+## **`Links`**
+
+I'm not affiliated with anybody. Links are for YOU. We'll all get 'there' faster sharing resources.
+
+## **`My Approach(es)`**
+
+- **_Building_**
+
+  - When building something new, my only mission is to find the pain points ASAP. _\* so don't expect it to be 'sexy'_
+
+- **_Learning New Concepts_**
+
+  - If it's **totally** new, I'll probably buy a course. Not to copy code and get the certificate, but to have an outline of the overwhelming amount of shit I now have to learn
+
+- **_Writing Blog Posts_**
+
+  - <\* finish section>
+
+</details>
+
+<br>
+
+<!-- #endregion /READ BEFORE READING -->
+
+# **ACTIVE PROJECTS**
+
+<details>
+<summary><strong><em>Basically, how I over-extend myself >></em></strong></summary>
 
 ( target date )
 
@@ -16,56 +61,104 @@
 - watch for a couple...err...blog posts about the build
 - hope to have this up by Wednesday
 
-## [`HOMR`](https://www.homrapp.com) mobile app ( Aug 31 )
-
-_(set a goal to design-build-publish 1 [React Native](https://reactnative.dev) app/month for the rest of the year. this had more to do with just getting a feel for the React Native SDLC)_
-
 ## [`homrapp.com`](https://www.homrapp.com) ( Aug 11 )
 
 - landing page/product info site for HOMR mobile app
+
+## [`HOMR`](https://www.homrapp.com) mobile app ( Aug 31 )
+
+- homeowner maintenance reminder mobile app (built with React Native)
+
+## [`modevx.com`](https://www.ephcoding.com) ( Aug 31 )
+
+- re-build as a basic HTML / CSS / (minimal) JavaScript company info site
+  - `modevx.com` will only be used strictly as a company & product info site
+  - `ephcoding.com` will be my primary site for content & project updates
 
 ## `Node REST API` | framework-free REST API using [Node.js](https://nodejs.org/en/) ( Aug 31 )
 
 - shout out to [Brad Traversy](https://www.traversymedia.com) and his priceless collection of [Udemy Courses](https://www.udemy.com/user/brad-traversy/) & [YouTube tutorials](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
 
+</details>
+
+<br>
+
 # **GOIN' DEEP**
 
-- React Native
-- React
-- JavaScript
-- Node
-- Unit Testing
+<details>
+<summary><strong><em>Tech stack I'm learning >></em></strong></summary>
 
-# **PROJECTS I'D BE DOWN FOR**
+- `JavaScript`
+  - [javascript.info](https://javascript.info/)
+  - [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+  - [Udemy Course]() by []()
+  - [Udemy Course]() by []()
+- `TypeScript`
+  - [docs]()
+  - []()
+  - []()
+- `Node.js`
+  - [docs](https://nodejs.org/en/docs/)
+  - [Guides](https://nodejs.org/en/docs/guides/)
+  - [Udemy Course]() by []()
+  - [Udemy Course]() by []()
+- `React`
+  - [docs](https://reactjs.org/)
+  - [Udemy Course]() by [Academind]()
+  - [Udemy Course]() by [Brad Traversy]()
+- `React Native`
+  - [docs](reactnative.dev)
+  - [Udemy Course]() by []()
+  - [Udemy Course]() by []()
+  - [Udemy Course]() by []()
+- `Git`
+  - []()
 
-- **_ANYTHING_ React Native**
-- guitars
+</details>
+
+<br>
+
+# **COLLABORATION**
+
+<details>
+<summary><strong><em>Projects I'd be down for >></em></strong></summary>
+
+- **_ANYTHING_** in React Native
+- music / guitars
 - motorcycles
 - skydiving
 - NASA / space
-- severe weather / tornadoes
+- severe weather (tornadoes)
 
-# **COULD USE SOME HELP..**
+</details>
 
-## **| REPO TYPES**
+<br>
+
+# **`REPOS`**
+
+<details>
+<summary><strong><em>How the code's organized >></em></strong></summary>
 
 [app]
 [playground]
 [reference]
 
-## **| HOUSE RULES**
+</details>
 
-if you can see it, it's fair game
+<br>
 
-## **| SINCE YOU MADE IT THIS FAR**
+# **QUESTIONS**
 
-**BORN TO BUILD |** Carpenter. Construction Manager. Heavy Equipment Operator. Software Test-Dummie.
+<details>
+<summary><strong><em>That I have for the community >></em></strong></summary>
+
+_If you know the answer to any of these, send me your answer + resources and I'll post it here for the community. Thanks, in advance!_
+
+</details>
+
+<br>
 
 <!--
-**ephcoding/ephcoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
