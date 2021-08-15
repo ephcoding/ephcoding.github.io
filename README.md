@@ -2,52 +2,54 @@
 
 <div align='center'>
   <a href='https://www.ephcoding.com'>ephcoding.com</a> |
-  <a href='https://twitter.com/ephcoding'>twitter</a> |
-    <a href='https://linkedin.com/in/ephraimjsmith'>linkedIn</a>
+    <a href='https://linkedin.com/in/ephraimjsmith'>linkedIn</a> |
+  <a href='https://twitter.com/ephcoding'>twitter</a>
 </div>
 
-<!-- #region READ BEFORE READING -->
 <br>
+
+# **`SOFTWARE EXPERIENCE`**
+
+QA Engineer - Performance Tracking Product Lead - R&D MVP Project Lead - Lead Automation Engineer
 
 # **`ACTIVE PROJECTS`**
 
-## **1. ephcoding.com**
+ephcoding.com -
+HOMR [mobile app](https://github.com/mobile-app__homr) -
+HOMR [product site](https://www.homrapp.com) -
+[Tornado Heatmap](https://github.com/ephcoding/playground__javascript/docs/tornado-heatmap) -
+[modevx.com](https://www.modevx.com)
 
-- where I brain-dump anything related to coding (might get weird)
+# **`MY STACK`**
 
-## **2. HOMR mobile app**
+[HTML](https://github.com/ephcoding/playground__html-css) |
+[CSS](https://github.com/ephcoding/playground__html-css) |
+[JavaScript](https://github.com/ephcoding/playground__javascript) |
+TypeScript |
+Node |
+[React](https://github.com/ephcoding/playground__react) |
+[React Native](https://github.com/ephcoding/playground__react-native) |
+Git
 
-_homeowner maintenance reminders_
+# **`COLLABORATION INTERESTS`**
 
-- **homrapp.com** | HOMR's product info site
-
-## **3. building out "playground" repos**
-
-- micro-projects built to learn new tech & concepts
-
-# **`THE STACK`**
-
-[HTML]() | [CSS]() | [JavaScript](https://javascript.info/) | [TypeScript]() | [Node](https://nodejs.org/en/docs/) | [React](https://reactjs.org/) | [React Native](reactnative.dev) | [Git](https://git-scm.com/)
-
-# **`PROJECTS I'M DOWN FOR`**
-
-- **_ANYTHING_** React Native
-- music / guitars
-- motorcycles
-- skydiving
-- NASA / space
-- severe weather / tornadoes
+**_ANYTHING_** React Native -
+music/guitars -
+motorcycles -
+skydiving -
+NASA/space -
+severe weather/tornadoes
 
 # **`REPOS`**
 
-Sorting by [name] groups repos by type:
+**REPO NAMING CONVENTION:** type\_\_name
 
-- **API**: application programming interface
+- **api\_\_\***: application programming interface
 
-- **mobile-app**: React Native mobile app
+- **mobile-app\_\_\***: React Native mobile app
 
-- **playground**: tech-specific playground with notes, micro-projects, & resources related to that language/tech
+- **playground\_\_\***: tech-specific playground with notes, micro-projects, & resources related to that language/tech
 
-- **reference**: list of concept-specific resources
+- **reference\_\_\***: list of concept-specific resources
 
-- **web-app**: React single-page-app
+- **web-app\_\_\***: React single-page-app
