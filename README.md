@@ -2,8 +2,9 @@
 
 <div align='center'>
   <a href='https://www.ephcoding.com'>ephcoding.com</a> |
-    <a href='https://linkedin.com/in/ephraimjsmith'>linkedIn</a> |
-  <a href='https://twitter.com/ephcoding'>twitter</a>
+  <a href='https://linkedin.com/in/ephraimjsmith'>LinkedIn</a> |
+  <a href='https://postman.com/ephcoding'>Postman</a> |
+  <a href='https://twitter.com/ephcoding'>Twitter</a>
 </div>
 
 <br>
