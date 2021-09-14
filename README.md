@@ -9,27 +9,15 @@
 
 <br>
 
-# **`ABOUT`**
-
-- [Tech Elevator](www.techelevator.com) Java bootcamp graduate (Pittsburgh Campus)
-- shifted to **[JavaScript](https://github.com/ephcoding/sbx__javascript)** with a focus on React & React Native
--
-
 # **`ACTIVE PROJECTS`**
+
+**Personal Software Blog | [ephcoding.com](https://www.ephcoding.com) | [repo](https://github.com/ephcoding/site__ephcoding-dot-com)**
 
 ![ephcoding.com img](./ephcoding-ss.png)
 
-- [ephcoding.com](ephcoding.com)
-  - personal blog where I share my exploits in building with code
-  - built with [Next.js](nextjs.org/)
+**Severe Weather Data Visualization | [tornadoaction.com](https://www.tornadoaction.com) | [repo](https://github.com/ephcoding/app__tornado-action)**
 
 ![Tornado Action img](./tornado-action-social-preview.png)
-
-- [tornadoaction.com](https://github.com/ephcoding/tornado-action)
-  - web app that visually displays historic tornado locations heatmaps
-  - weather data fetched from the National Weather Service [Severe Weather Data Inventory](https://www.ncdc.noaa.gov/data-access/severe-weather) web service [API](https://www.ncdc.noaa.gov/swdiws/)
-  - heatmaps displayed using Google Map's [heatmap layer](https://developers.google.com/maps/documentation/javascript/heatmaplayer)
-  - \_established functionality with raw HTML & the API. end platform will be built with [Next.js](nextjs.org/)
 
 # **`RESUME`**
 
