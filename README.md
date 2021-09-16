@@ -34,7 +34,7 @@ _**to see repos grouped by area, sort them by name:**_
 
 # **`ACTIVE PROJECTS`**
 
-<p align='right'><a href='#index'>^ back to top ^</a></p>
+<p align='right'><em><a href='#index'>--> back to top</a></em></p>
 
 **Personal Software Blog | [ephcoding.com](https://www.ephcoding.com) | [repo](https://github.com/ephcoding/site__ephcoding-dot-com)**
 
@@ -46,6 +46,6 @@ _**to see repos grouped by area, sort them by name:**_
 
 # **`RESUME`**
 
-<p align='right'><a href='#index'>^ back to top ^</a></p>
+<p align='right'><em><a href='#index'>--> back to top</a></em></p>
 
 ![Ephraim Smith's Resume](./assets/resume-no-number.png)
