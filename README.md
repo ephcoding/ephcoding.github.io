@@ -9,7 +9,7 @@
 
 <br>
 
-<div align='center'><em><strong>Thanks for checking out my code!  I know you're busy.  Hit me up if you have any questions!  :metal:</strong></em></div>
+<div align='center'><em><strong>I know you're busy.  Thanks for taking the time to check out my code. :metal:</strong></em></div>
 
 <br>
 
@@ -21,14 +21,7 @@
 
 # **`REPOS`**
 
-## Repos are organized into 4 groups:
-
-- **`app`:** app (desktop, mobile, or web)
-- **`ref`:** go-to references for different topics
-- **`sbx`:** sandbox to quick-demo new concepts/snippets
-- **`site`:** website
-
-_**to see repos grouped by area, sort them by name:**_
+sorting repos by NAME (checkout gif), will group them by type:
 
 ![sort repos by name gif](./assets/github-repo-sort.gif)
 
@@ -36,13 +29,17 @@ _**to see repos grouped by area, sort them by name:**_
 
 <p align='right'><em><a href='#index'>--> back to top</a></em></p>
 
-**Personal Software Blog | [ephcoding.com](https://www.ephcoding.com) | [repo](https://github.com/ephcoding/site__ephcoding-dot-com)**
+**personal site | [ephcoding.com](https://www.ephcoding.com) | [repo](https://github.com/ephcoding/site__ephcoding-dot-com)**
 
-![ephcoding.com img](./assets/ephcoding-ss.png)
+![ephcoding.com img](./assets/ss_ephcoding.png)
 
-**Severe Weather Data Visualization | [tornadoaction.com](https://www.tornadoaction.com) | [repo](https://github.com/ephcoding/app__tornado-action)**
+**Tornado Action | [tornadoaction.com](https://www.tornadoaction.com) | [repo](https://github.com/ephcoding/app__tornado-action)**
 
 ![Tornado Action img](./assets/tornado-action-social-preview.png)
+
+**freeCodeCamp | [projects site](https://ephcoding.github.io/freecodecamp) | [repo](https://github.com/ephcoding/freecodecamp)**
+
+![freeCodeCamp img](./assets/ss_freecodecamp.png)
 
 # **`RESUME`**
 
