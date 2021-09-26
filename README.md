@@ -9,7 +9,7 @@
 
 <br>
 
-<div align='center'><em><strong>I know you're busy.  Thanks for taking the time to check out my code. :metal:</strong></em></div>
+<div align='center'><em><strong>I know you're busy.  Thanks for checking out my code. :metal:</strong></em></div>
 
 <br>
 
