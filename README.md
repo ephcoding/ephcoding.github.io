@@ -63,7 +63,7 @@ In the spirit of biting off more than I can chew, I'm also taking a crack at alg
 - Love music & often pretend to play guitar
   - one of which is a custom electric I built, dubbed 'Korina'
 - Building random shit on an as-needed basis
-  - latest creation is a si/stand pump-desk
+  - latest creation is a sit/stand pump-desk
 
 ## **`CONNECT`**
 
