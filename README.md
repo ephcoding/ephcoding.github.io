@@ -45,7 +45,7 @@
 
 <p align='right'><em><a href='#index'>--> back to top</a></em></p>
 
-In the spirit of biting off more than I can chew, I'm also taking a crack at algo-trading. I'm in the process of picking my first strategy to run with so I can get my feet wet with paper trading and backtesting.
+**In the spirit of biting off more than I can chew, I'm also taking a crack at algo-trading. I'm in the process of picking my first strategy to run with so I can get my feet wet with paper trading and backtesting.**
 
 - _Found the [Alpaca]() broker API earlier this year and have been using their platform to 'dabble' in algo-trading-land._
 - _Completed the Udemy course [The Complete Foundation Stock Trading Course](https://www.udemy.com/course/foundation-course/) earlier in the year._
@@ -57,13 +57,13 @@ In the spirit of biting off more than I can chew, I'm also taking a crack at alg
 
 **Quick-Fire rundown of other things I do (did) when not chained to my computer:**
 
-- Skydives: 127
-- Bungee Jumps: 2
-- Miles on Motorcycles: 30,000+
-- Love music & often pretend to play guitar
-  - one of which is a custom electric I built, dubbed 'Korina'
-- Building random shit on an as-needed basis
-  - latest creation is a sit/stand pump-desk
+- _Skydives: 127_
+- _Bungee Jumps: 2_
+- _Miles on Motorcycles: 30,000+_
+- _Love music - pretend to play guitar_
+  - _built my own custom electric dubbed 'Korina'_
+- _Building random shit on an as-needed basis_
+  - _latest creation is a sit/stand pump-desk_
 
 ## **`CONNECT`**
 
