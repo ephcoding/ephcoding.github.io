@@ -11,34 +11,17 @@
 
 # **`ACTIVE PROJECTS`**
 
-1. [freeCodeCamp](https://freecodecamp.org/ephcoding)'s 1st 5 certificates in 100 days
+1. [freeCodeCamp](https://freecodecamp.org/ephcoding)'s 1st 5 certificates/25 projects in 100 days
 
-   - Requires building 25 projects
-   - Started on a whim, September 24th. Day 100 happens to be January 1st.
-   - completed [projects](https://github.com/ephcoding?tab=repositories&q=fcc&type=public&language=&sort=name)
-   - completed [**_`RESPONSIVE WEB DESIGN`_**](https://www.freecodecamp.org/certification/ephcoding/responsive-web-design) certificate
-   - completed [**_`JAVASCRIPT ALGORITHMS & DATA STRUCTURES`_**](https://www.freecodecamp.org/certification/ephcoding/javascript-algorithms-and-data-structures) certificate
+   - completed [**projects**](https://github.com/ephcoding?tab=repositories&q=fcc&type=public&language=&sort=name)
+   - completed certificate | [**RESPONSIVE WEB DESIGN**](https://www.freecodecamp.org/certification/ephcoding/responsive-web-design)
+   - completed certificate | [**JAVASCRIPT ALGORITHMS & DATA STRUCTURES**](https://www.freecodecamp.org/certification/ephcoding/javascript-algorithms-and-data-structures)
 
-   <br>
+2. [tornadoaction.com](https://www.tornadoaction.com) | project-based sandbox for learning & creating data visualizations | [code](https://github.com/ephcoding/tornado-action)
+3. [ephcoding.com](https://www.ephcoding.com) | personal site | [code](https://github.com/ephcoding/site__ephcoding-dot-com)
+4. building my 1st algo-trading strategy from scratch
 
-2. [tornadoaction.com](https://www.tornadoaction.com) | project-based sandbox for applying data visualization
-
-   - content-light (started right before my 100-day freeCodeCamp marathon)
-   - will be using D3.js from freeCodeCamp's `***DATA VISUALIZATION***` certificate to create the visuals starting next week
-   - see the [code](https://github.com/ephcoding/tornado-action)
-
-  <br>
-
-3. [ephcoding.com](https://www.ephcoding.com) | personal site
-
-   - built on Next.js
-   - see the [code](https://github.com/ephcoding/site__ephcoding-dot-com)
-
-# **`NON-COMMERCIAL CODE PROJECTS`**
-
-- building my 1st algo-trading strategy from scratch
-
-# **`AWAY FROM THE COMPUTER`**
+# **`LIFE BEFORE SOFTWARE`**
 
 - Skydives: 127
 - Bungee Jumps: 2
