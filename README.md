@@ -1,15 +1,4 @@
-![ephcoding banner](./assets/gh-profile__ephcoding.png)
-
-<div align='center'>
-  <a href='https://www.ephcoding.com'>ephcoding.com</a> |
-  <a href='https://github.com/ephcoding'>github</a> |
-  <a href='https://linkedin.com/in/ephraimjsmith'>linkedin</a> |
-  <a href='https://twitter.com/ephcoding'>twitter</a>
-</div>
-
-<br>
-
-# **`ACTIVE PROJECTS`**
+## **`ACTIVE PROJECTS`**
 
 1. [freeCodeCamp](https://freecodecamp.org/ephcoding)'s 1st 5 certificates/25 projects in 100 days
 
@@ -19,17 +8,18 @@
 
 2. [tornadoaction.com](https://www.tornadoaction.com) | project-based sandbox for learning & creating data visualizations | [code](https://github.com/ephcoding/tornado-action)
 3. [ephcoding.com](https://www.ephcoding.com) | personal site | [code](https://github.com/ephcoding/site__ephcoding-dot-com)
-4. building my 1st algo-trading strategy from scratch
+4. "Stay Alert" React Native app | provides push notifications based on real-time alerts by the National Weather Service
+5. Building first algo-trading strategy
 
-# **`LIFE BEFORE SOFTWARE`**
+## **`!SOFTWARE`**
 
 - Skydives: 127
 - Bungee Jumps: 2
 - Miles on Motorcycles: 30,000+
-- Built my electric guitar
-- Built a non-powered sit-stand desk dubbed the 'COVID Convertible'
+- Built my own electric guitar
+- Built my own sit-stand desk dubbed the 'COVID Convertible'
 
-# **`CONNECT`**
+## **`CONNECT`**
 
 - Email: ephcoding@gmail.com
 - Github: [ephcoding](https://github.com/ephcoding)
