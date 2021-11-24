@@ -8,7 +8,7 @@
 
 2. [tornadoaction.com](https://www.tornadoaction.com) | project-based sandbox for learning & creating data visualizations | [code](https://github.com/ephcoding/tornado-action)
 3. [ephcoding.com](https://www.ephcoding.com) | personal site | [code](https://github.com/ephcoding/site__ephcoding-dot-com)
-4. "Stay Alert" React Native app | provides push notifications based on real-time alerts by the National Weather Service
+4. [Stay Alert](https://github.com/ephcoding/stay-alert) | React Native app that provides push notifications based on real-time alerts by the National Weather Service
 5. Building first algo-trading strategy
 
 ## **`!SOFTWARE`**
