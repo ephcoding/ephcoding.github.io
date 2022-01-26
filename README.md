@@ -45,15 +45,11 @@ Eventually, I'd like it to make me some beer money.
 - [x] research economical options for deploying & hosting full stack apps (serverless)
 - [x] deep-dive architecture/cloud design & best practices
 
-![freeCodeCamp data visualization certificate graphic](./fcc_dv.png)
-
 - [ ] Treemap Diagram
 - [ ] Choropleth Map
 - [ ] Heat Map
 - [ ] Scatterplot Graph
 - [x] Bar Chart | [code](https://github.com/ephraimsmithdev/bar-chart) - [live](https://ephraimsmithdev.github.io/bar-chart)
-
-![freeCodeCamp frontend development libraries certificate ](cert_fedl.png)
 
 - [x] 25 + 5 Clock | [code](https://github.com/ephraimsmithdev/pomodoro) - [live](https://ephraimsmithdev.github.io/pomodoro)
 - [x] JavaScript Calculator | [code](https://github.com/ephraimsmithdev/javascript-calculator) - [live](https://ephraimsmithdev.github.io/javascript-calculator)
@@ -61,16 +57,5 @@ Eventually, I'd like it to make me some beer money.
 - [x] Markdown Previewer | [code](https://github.com/ephraimsmithdev/markdown-previewer) - [live](https://ephraimsmithdev.github.io/markdown-previewer)
 - [x] Random Quote Machine | [code](https://github.com/ephraimsmithdev/random-quote-machine) - [live](https://ephraimsmithdev.github.io/random-quote-machine)
 
-![freeCodeCamp javascript algorithms & data structures certificate](cert_js.png)
-
-- [x] Cash Register | [code](https://github.com/ephraimsmithdev/cash-register)
-- [x] Telephone Number Converter | [code](https://github.com/ephraimsmithdev/telephone-number-converter)
-- [x] Caesars Cipher | [code](https://github.com/ephraimsmithdev/caesars-cipher)
-- [x] Roman Numeral Converter | [code](https://github.com/ephraimsmithdev/roman-numeral-converter)
-- [x] Palindrome Checker | [code](https://github.com/ephraimsmithdev/palindrome-checker)
-
-![freeCodeCamp responsive web design certificate](cert_rwd.png)
-
-|              CERTIFICATES               | PROJECTS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| :-------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src='./cert_rwd.png' width='450'/> | <ul><li>- [x] Portfolio Page: ([code](https://github.com/ephraimsmithdev/portfolio-page) - [live](https://ephraimsmithdev.github.io/portfolio-page))</li><li>- [x] Technical Documentation Page: ([code](https://github.com/ephraimsmithdev/technical-documentation-page) - [live](https://ephraimsmithdev.github.io/technical-documentation-page))</li><li>- [x] Product Landing Page: ([code](https://github.com/ephraimsmithdev/product-landing-page) - [live](https://ephraimsmithdev.github.io/product-landing-page))</li><li>- [x] Survey Form: ([code](https://github.com/ephraimsmithdev/survey-form) - [live](https://ephraimsmithdev.github.io/survey-form))</li><li>- [x] Tribute Page ([code](https://github.com/ephraimsmithdev/tribute-page) - [live](https://ephraimsmithdev.github.io/tribute-page))</li></ul> |
+| CERTIFICATES | PROJECTS |
+| :-------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | <img src='./cert_js.png' width='450'/> | <ul><li>- [x] Cash Register | [code](https://github.com/ephraimsmithdev/cash-register)</li><li>- [x] Telephone Number Converter | [code](https://github.com/ephraimsmithdev/telephone-number-converter)</li><li>- [x] Caesars Cipher | [code](https://github.com/ephraimsmithdev/caesars-cipher)</li><li>- [x] Roman Numeral Converter | [code](https://github.com/ephraimsmithdev/roman-numeral-converter)</li><li>- [x] Palindrome Checker | [code](https://github.com/ephraimsmithdev/palindrome-checker)</li></ul> | <img src='./cert_rwd.png' width='450'/> | <ul><li>- [x] Portfolio Page: ([code](https://github.com/ephraimsmithdev/portfolio-page) - [live](https://ephraimsmithdev.github.io/portfolio-page))</li><li>- [x] Technical Documentation Page: ([code](https://github.com/ephraimsmithdev/technical-documentation-page) - [live](https://ephraimsmithdev.github.io/technical-documentation-page))</li><li>- [x] Product Landing Page: ([code](https://github.com/ephraimsmithdev/product-landing-page) - [live](https://ephraimsmithdev.github.io/product-landing-page))</li><li>- [x] Survey Form: ([code](https://github.com/ephraimsmithdev/survey-form) - [live](https://ephraimsmithdev.github.io/survey-form))</li><li>- [x] Tribute Page ([code](https://github.com/ephraimsmithdev/tribute-page) - [live](https://ephraimsmithdev.github.io/tribute-page))</li></ul> |
