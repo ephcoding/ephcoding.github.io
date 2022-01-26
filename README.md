@@ -4,6 +4,22 @@ I've invested a massive amount of time learning to code, so I really appreciate 
 
 **_ANY_** and **_ALL_** feedback is appreciated too. So, if you have some, **_[SEND IT](mailto:feedback@ephraimsmith.dev)_**!
 
+![tornado action repo graphic](./tornado-action.png)
+
+### **_WHAT:_**
+
+[TORNADO ACTION](https://github.com/ephraimsmithdev/tornado-action) is like a real-time command center for all things tornado-related.
+
+### **_WHY:_**
+
+Originally, this was supposed to be a simple consume-and-display "portfolio" project. But, after a couple tornadoes hit close to home last season, I thought it'd be cool to build an all-in-one app for tracking all active tornadoes/tornado-capable storms.
+
+Tornado Action utilizes the National Weather Service's [Web Service API](https://www.weather.gov/documentation/services-web-api#/default) to keep track of all active severe storm & tornado alerts in real time.
+
+### **_STATUS:_**
+
+Now that I'm able to fetch & parse specific alerts, my next move is to fetch & render/display NEXRAD reflective imagery (radar) in real-ish time.
+
 ![vortx api repo graphic](./vortx.png)
 
 ### **_WHAT:_**
@@ -16,11 +32,7 @@ I've never built an API before. Plus, [TORNADO ACTION](https://github.com/ephrai
 
 ### **_STATUS:_**
 
-- [ ] deploy
-- [ ] write API documentation
-- [ ] build API
-- [ ] build database
-- [x] research API, API documentation, & PostgreSQL database design & best practices
+After figuring out how to populate PostgreSQL databases with .csv files, I'm currently deep-diving database/table design & best practices.
 
 ![alstr algo-trading platform graphic](./alstr.png)
 
@@ -36,14 +48,7 @@ Eventually, I'd like it to make me some beer money.
 
 ### **_STATUS:_**
 
-- [ ] strategy-managment UI (desktop, mobile, web)
-- [ ] performance reporting
-- [ ] strategy implemntation
-- [ ] live market data retrieval & storage (websockets)
-- [ ] backtesting
-- [ ] historical market data retrieval & storage
-- [x] research economical options for deploying & hosting full stack apps (serverless)
-- [x] deep-dive architecture/cloud design & best practices
+Now that I'm able to successfully fetch market data from Alpaca's trade API, ([Node.js SDK](https://github.com/alpacahq/alpaca-trade-api-js)), I'm working through what the architecture should look like for caching that data in an ODS.
 
 ![freeCodeCamp certifications section](./fcc_certs.png)
 
