@@ -1,8 +1,8 @@
 **updated**: _Jan 26, 2022_
 
-I've invested a massive amount of time learning to code, so I really appreciate you guys taking the time to check out what I'm working on!
+I've invested a massive amount of time learning to code, so I really appreciate you taking the time to check out my stuff!
 
-And I welcome **_ANY_** and **_ALL_** feedback. So, if you have some, **_[SEND IT](mailto:feedback@ephraimsmith.dev)_**!
+**_ANY_** and **_ALL_** feedback is appreciated too. So, if you have some, **_[SEND IT](mailto:feedback@ephraimsmith.dev)_**!
 
 ![vortx api repo graphic](./vortx.png)
 
@@ -12,7 +12,7 @@ And I welcome **_ANY_** and **_ALL_** feedback. So, if you have some, **_[SEND I
 
 ### **_WHY:_**
 
-I've never built an API before. Plus, I'll consume VORTX's stats in [TORNADO ACTION](https://github.com/ephraimsmithdev/tornado-action) to create [D3]() visualizations.
+I've never built an API before. Plus, [TORNADO ACTION](https://github.com/ephraimsmithdev/tornado-action) will consume VORTX data to generate [D3](d3js.org/) visualizations.
 
 ### **_STATUS:_**
 
@@ -30,9 +30,9 @@ I've never built an API before. Plus, I'll consume VORTX's stats in [TORNADO ACT
 
 ### **_WHY:_**
 
-In the short term, I'm building ALSTR to learn top-down software architecture.
+In the short term, I'm building ALSTR to learn software architecture design.
 
-Eventually, I'd like it to make me enough for beer money.
+Eventually, I'd like it to make me some beer money.
 
 ### **_STATUS:_**
 
@@ -53,7 +53,7 @@ Eventually, I'd like it to make me enough for beer money.
 - [ ] Scatterplot Graph
 - [x] Bar Chart | [code](https://github.com/ephraimsmithdev/bar-chart) - [live](https://ephraimsmithdev.github.io/bar-chart)
 
-![freeCodeCamp frontend development libraries certificate graphic](fcc_fedl.png)
+![freeCodeCamp frontend development libraries certificate ](cert_fedl.png)
 
 - [x] 25 + 5 Clock | [code](https://github.com/ephraimsmithdev/pomodoro) - [live](https://ephraimsmithdev.github.io/pomodoro)
 - [x] JavaScript Calculator | [code](https://github.com/ephraimsmithdev/javascript-calculator) - [live](https://ephraimsmithdev.github.io/javascript-calculator)
@@ -61,7 +61,7 @@ Eventually, I'd like it to make me enough for beer money.
 - [x] Markdown Previewer | [code](https://github.com/ephraimsmithdev/markdown-previewer) - [live](https://ephraimsmithdev.github.io/markdown-previewer)
 - [x] Random Quote Machine | [code](https://github.com/ephraimsmithdev/random-quote-machine) - [live](https://ephraimsmithdev.github.io/random-quote-machine)
 
-![freeCodeCamp javascript algorithms & data structures graphic](fcc_js.png)
+![freeCodeCamp javascript algorithms & data structures certificate](cert_js.png)
 
 - [x] Cash Register | [code](https://github.com/ephraimsmithdev/cash-register)
 - [x] Telephone Number Converter | [code](https://github.com/ephraimsmithdev/telephone-number-converter)
@@ -69,10 +69,10 @@ Eventually, I'd like it to make me enough for beer money.
 - [x] Roman Numeral Converter | [code](https://github.com/ephraimsmithdev/roman-numeral-converter)
 - [x] Palindrome Checker | [code](https://github.com/ephraimsmithdev/palindrome-checker)
 
-![freeCodeCamp responsive web design graphic](fcc_rwd.png)
+![freeCodeCamp responsive web design certificate](cert_rwd.png)
 
-- [x] Tribute Page | [code](https://github.com/ephraimsmithdev/tribute-page) [x] [live](https://ephraimsmithdev.github.io/tribute-page)
-- [x] Survey Form | [code](https://github.com/ephraimsmithdev/survey-form) - [live](https://ephraimsmithdev.github.io/survey-form)
-- [x] Product Landing Page | [code](https://github.com/ephraimsmithdev/product-landing-page) - [live](https://ephraimsmithdev.github.io/product-landing-page)
-- [x] Technical Documentation Page | [code](https://github.com/ephraimsmithdev/technical-documentation-page) - [live](https://ephraimsmithdev.github.io/technical-documentation-page)
-- [x] Portfolio Page | [code](https://github.com/ephraimsmithdev/portfolio-page) - [live](https://ephraimsmithdev.github.io/portfolio-page)
+- [x] Portfolio Page: ([code](https://github.com/ephraimsmithdev/portfolio-page) - [live](https://ephraimsmithdev.github.io/portfolio-page))
+- [x] Technical Documentation Page: ([code](https://github.com/ephraimsmithdev/technical-documentation-page) - [live](https://ephraimsmithdev.github.io/technical-documentation-page))
+- [x] Product Landing Page: ([code](https://github.com/ephraimsmithdev/product-landing-page) - [live](https://ephraimsmithdev.github.io/product-landing-page))
+- [x] Survey Form: ([code](https://github.com/ephraimsmithdev/survey-form) - [live](https://ephraimsmithdev.github.io/survey-form))
+- [x] Tribute Page ([code](https://github.com/ephraimsmithdev/tribute-page) - [live](https://ephraimsmithdev.github.io/tribute-page))
