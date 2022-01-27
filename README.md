@@ -8,13 +8,13 @@ I've invested a massive amount of time learning to code, so I really appreciate 
 
 ### **_WHAT:_**
 
-[TORNADO ACTION](https://github.com/ephraimsmithdev/tornado-action) is like a real-time command center for all things tornado-related.
+Tornado Action is a visual-heavy web application for monitoring current tornado activity & exploring historical tornado stats.
+
+[see the code >>](https://github.com/ephraimsmithdev/tornado-action)
 
 ### **_WHY:_**
 
 Originally, this was supposed to be a simple consume-and-display "portfolio" project. But, after a couple tornadoes hit close to home last season, I thought it'd be cool to build an all-in-one app for tracking all active tornadoes/tornado-capable storms.
-
-Tornado Action utilizes the National Weather Service's [Web Service API](https://www.weather.gov/documentation/services-web-api#/default) to keep track of all active severe storm & tornado alerts in real time.
 
 ### **_STATUS:_**
 
@@ -24,7 +24,9 @@ Now that I'm able to fetch & parse specific alerts, my next move is to fetch & r
 
 ### **_WHAT:_**
 
-[VORTX](https://github.com/ephraimsmithdev/vortx) is a REST API for getting stats on every recorded tornado since 1950.
+VORTX is a REST API that serves stats for every tornado recorded since 1950.
+
+[see the code >>](https://github.com/ephraimsmithdev/vortx)
 
 ### **_WHY:_**
 
@@ -38,7 +40,9 @@ After figuring out how to populate PostgreSQL databases with .csv files, I'm cur
 
 ### **_WHAT:_**
 
-[ALSTR](https://github.com/ephraimsmithdev/alstr) (short for Algo-Strategy) is an algorithmic trading system for implementing my personal stock-trading strategies.
+ALSTR (Algo-Trading Strategy) is an algorithmic trading system for implementing my personal stock-trading strategies.
+
+[see the code >>](https://github.com/ephraimsmithdev/alstr)
 
 ### **_WHY:_**
 
