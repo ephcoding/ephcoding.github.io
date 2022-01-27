@@ -1,9 +1,3 @@
-**updated**: _Jan 26, 2022_
-
-I've invested a massive amount of time learning to code, so I really appreciate you taking the time to check out my stuff!
-
-**_ANY_** and **_ALL_** feedback is appreciated too. So, if you have some, **_[SEND IT](mailto:feedback@ephraimsmith.dev)_**!
-
 ![tornado action repo graphic](./readme/tornado-action.png)
 
 ### **_WHAT:_**
