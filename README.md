@@ -1,3 +1,37 @@
+![alstr algo-trading platform graphic](./readme/alstr.png)
+
+### **_WHAT:_**
+
+ALSTR (Algo-Trading Strategy) is an algorithmic trading system for implementing my personal stock-trading strategies.
+
+[see the code >>](https://github.com/ephraimsmithdev/alstr)
+
+### **_WHY:_**
+
+In the short term, I'm building ALSTR to learn software architecture design.
+
+Eventually, I'd like it to make me some beer money.
+
+### **_STATUS:_**
+
+Now that I'm able to successfully fetch market data from Alpaca's trade API, ([Node.js SDK](https://github.com/alpacahq/alpaca-trade-api-js)), I'm working through what the architecture should look like for caching that data in an ODS.
+
+![rovercam graphic](./readme/rovercam.png)
+
+### **_WHAT:_**
+
+ROVERCAM is a React Native app that let's you explore the Red Planet through the eyes of the Mars Rovers.
+
+[see the code >>](https://github.com/modevx/rovercam)
+
+### **_WHY:_**
+
+I've made a lot of excuses for not building my first mobile app. Thanks to Infinite Red's [Ignite](https://github.com/infinitered/ignite) boilerplate, I'm out of excuses..
+
+### **_STATUS:_**
+
+Right now I'm working on getting my API services set up across all active projects. Soon as I knock that out, the first step for ROVERCAM will be getting some martian media on the screen:)
+
 ![tornado action repo graphic](./readme/tornado-action.png)
 
 ### **_WHAT:_**
@@ -29,24 +63,6 @@ I've never built an API before. Plus, [TORNADO ACTION](https://github.com/ephrai
 ### **_STATUS:_**
 
 After figuring out how to populate PostgreSQL databases with .csv files, I'm currently deep-diving database/table design & best practices.
-
-![alstr algo-trading platform graphic](./readme/alstr.png)
-
-### **_WHAT:_**
-
-ALSTR (Algo-Trading Strategy) is an algorithmic trading system for implementing my personal stock-trading strategies.
-
-[see the code >>](https://github.com/ephraimsmithdev/alstr)
-
-### **_WHY:_**
-
-In the short term, I'm building ALSTR to learn software architecture design.
-
-Eventually, I'd like it to make me some beer money.
-
-### **_STATUS:_**
-
-Now that I'm able to successfully fetch market data from Alpaca's trade API, ([Node.js SDK](https://github.com/alpacahq/alpaca-trade-api-js)), I'm working through what the architecture should look like for caching that data in an ODS.
 
 ![freeCodeCamp certifications section](./readme/fcc_certs.png)
 
