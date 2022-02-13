@@ -1,4 +1,70 @@
+![rovercam graphic](./readme/rovercam.png)
+
+<details>
+<summary><strong><em>expand for details:</em></strong></summary>
+
+### **_WHAT:_**
+
+ROVERCAM is a React Native app that let's you explore the Red Planet through the eyes of the Mars Rovers.
+
+[see the code >>](https://github.com/modevx/rovercam)
+
+### **_WHY:_**
+
+I've made a lot of excuses for not building my first mobile app. Thanks to Infinite Red's [Ignite](https://github.com/infinitered/ignite) boilerplate, I'm out of excuses..
+
+### **_STATUS:_**
+
+Right now I'm working on getting my API services set up across all active projects. Soon as I knock that out, the first step for ROVERCAM will be getting some martian media on the screen:)
+
+</details>
+
+![vortx api repo graphic](./readme/vortx.png)
+
+<details>
+<summary><strong><em>expand for details:</em></strong></summary>
+
+### **_WHAT:_**
+
+VORTX is a REST API that serves stats for every tornado recorded since 1950.
+
+[see the code >>](https://github.com/ephraimsmithdev/vortx)
+
+### **_WHY:_**
+
+I've never built an API before. Plus, [TORNADO ACTION](https://github.com/ephraimsmithdev/tornado-action) will consume VORTX data to generate [D3](d3js.org/) visualizations.
+
+### **_STATUS:_**
+
+After figuring out how to populate PostgreSQL databases with .csv files, I'm currently deep-diving database/table design & best practices.
+
+</details>
+
+![tornado action repo graphic](./readme/tornado-action.png)
+
+<details>
+<summary><strong><em>expand for details:</em></strong></summary>
+
+### **_WHAT:_**
+
+Tornado Action is a visual-heavy web application for monitoring current tornado activity & exploring historical tornado stats.
+
+[see the code >>](https://github.com/ephraimsmithdev/tornado-action)
+
+### **_WHY:_**
+
+Originally, this was supposed to be a simple consume-and-display "portfolio" project. But, after a couple tornadoes hit close to home last season, I thought it'd be cool to build an all-in-one app for tracking all active tornadoes/tornado-capable storms.
+
+### **_STATUS:_**
+
+Now that I'm able to fetch & parse specific alerts, my next move is to fetch & render/display NEXRAD reflective imagery (radar) in real-ish time.
+
+</details>
+
 ![alstr algo-trading platform graphic](./readme/alstr.png)
+
+<details>
+<summary><strong><em>expand for details:</em></strong></summary>
 
 ### **_WHAT:_**
 
@@ -16,53 +82,7 @@ Eventually, I'd like it to make me some beer money.
 
 Now that I'm able to successfully fetch market data from Alpaca's trade API, ([Node.js SDK](https://github.com/alpacahq/alpaca-trade-api-js)), I'm working through what the architecture should look like for caching that data in an ODS.
 
-![rovercam graphic](./readme/rovercam.png)
-
-### **_WHAT:_**
-
-ROVERCAM is a React Native app that let's you explore the Red Planet through the eyes of the Mars Rovers.
-
-[see the code >>](https://github.com/modevx/rovercam)
-
-### **_WHY:_**
-
-I've made a lot of excuses for not building my first mobile app. Thanks to Infinite Red's [Ignite](https://github.com/infinitered/ignite) boilerplate, I'm out of excuses..
-
-### **_STATUS:_**
-
-Right now I'm working on getting my API services set up across all active projects. Soon as I knock that out, the first step for ROVERCAM will be getting some martian media on the screen:)
-
-![tornado action repo graphic](./readme/tornado-action.png)
-
-### **_WHAT:_**
-
-Tornado Action is a visual-heavy web application for monitoring current tornado activity & exploring historical tornado stats.
-
-[see the code >>](https://github.com/ephraimsmithdev/tornado-action)
-
-### **_WHY:_**
-
-Originally, this was supposed to be a simple consume-and-display "portfolio" project. But, after a couple tornadoes hit close to home last season, I thought it'd be cool to build an all-in-one app for tracking all active tornadoes/tornado-capable storms.
-
-### **_STATUS:_**
-
-Now that I'm able to fetch & parse specific alerts, my next move is to fetch & render/display NEXRAD reflective imagery (radar) in real-ish time.
-
-![vortx api repo graphic](./readme/vortx.png)
-
-### **_WHAT:_**
-
-VORTX is a REST API that serves stats for every tornado recorded since 1950.
-
-[see the code >>](https://github.com/ephraimsmithdev/vortx)
-
-### **_WHY:_**
-
-I've never built an API before. Plus, [TORNADO ACTION](https://github.com/ephraimsmithdev/tornado-action) will consume VORTX data to generate [D3](d3js.org/) visualizations.
-
-### **_STATUS:_**
-
-After figuring out how to populate PostgreSQL databases with .csv files, I'm currently deep-diving database/table design & best practices.
+</details>
 
 ![freeCodeCamp certifications section](./readme/fcc_certs.png)
 
