@@ -1,7 +1,4 @@
-# **EPHRAIM SMITH**
-
-<div align='left'>
-
+<div align='right'>
   <a href='https://github.com/ephbuilding' alt='social link icon'>
     <img src='./assets/icon-gh.svg' height='20'/>
   </a>
@@ -25,19 +22,41 @@
   <a href='https://linkedin.com/in/ephbuilding' alt='social link icon'>
     <img src='./assets/icon-li.svg' height='20'/>
   </a>
-
 </div>
+
+# **ACTIVE PROJECTS**
+
+  <table align='center'>
+    <tr>
+      <td width='400px'>
+        <img src='./assets/tornado-action.png' alt='tornadoaction.com'>
+      </td>
+      <td>
+        <a href='https://tornadoaction.com' target='_blank'>Tornado Action</a> shows you <strong><em>every</em></strong> active tornado alert (warnings & watches) in real-time.  Functionality will expand to include eye-catching data visualizations, up-to-date tornado-related news, and the ability to search every tornado event since 1950!
+        <br/>
+        <br/>
+        <em>Check it out now at <a href='https://tornadoaction.com' target='_blank'>tornadoaction.com</a>!</em>
+        <br/>
+        <br/>
+        <em>See the <a href='https://github.com/ephbuilding/tornado-action' target='_blank'>code</a>.</em>
+      </td>
+    </tr>
+    <tr>
+      <td width='400px'>
+        <img src='./assets/alstr.png' alt='algo-trading system'>
+      </td>
+      <td>
+        <a href='https://github.com/ephbuilding/alstr' target='_blank'>ALSTR</a> is an algo-trading execution engine.  The current focus is on developing my own trading strategies and running them in real-time using a paper (fake money) account through <a href='https://alpaca.markets/' target='_blank'>Alpaca</a>.
+        <br/>
+        <br/>
+        <em>See the <a href='https://github.com/ephbuilding/alstr' target='_blank'>code.</a></em>
+      </td>
+    </tr>
+  </table>
 
 <br/>
 
-## **_Experience Timeline_**
-
-- 2018 | heavy equipment operator
-- 2019 | graduated from [Tech Elevator](https://techelevator.com)'s 14-week fullstack Java bootcamp
-- 2019 | lead QA/Automated Testing Engineer
-- 2021 | earned FreeCodeCamp certificates: [Responsive Web Design](https://www.freecodecamp.org/certification/ephbuilding/responsive-web-design), [JavaScript Algorithms & Data Structures](https://www.freecodecamp.org/certification/ephbuilding/javascript-algorithms-and-data-structures), [Front End Development Libraries](https://www.freecodecamp.org/certification/ephbuilding/front-end-development-libraries)
-- 2021 | reallocated 100% of my time to learning and building with React, Next.js, React Native, Postgres, Node.js
-- 2022 | current projects: [ROVERCAM](https://rovercamapp.com), [tornadoaction.com](https://tornadoaction.com)
+# **STACK**
 
 <div align='center'>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="tailwindcss" alt="tailwindcss" width="40" height="40"/>&nbsp;
@@ -48,40 +67,38 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="graphql" alt="graphql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>
-</div>ds
+</div>
 
-<table>
-  <tr>    
-    <td>
-      <img src='./assets/tech_elevator.png' width='450px'/>
-    </td>   
-    <td>
-      <img src='./assets/rwd.png' width='450px'/>
-    </td>
-    <td>
-      <img src='./assets/js.png' width='450px'/>
-    </td>
-    <td>
-      <img src='./assets/fedl.png' width='450px'/>
-    </td>
-  </tr>
-</table>
+# **CONTINUED LEARNING**
 
-## **_Personal_**
-
-- 6 yr old son / 3 yr old daughter
-- ridden over 30,000 miles on motorcycles
-- actively learning to skateboard
-- taught myself to play guitar
-- 1 hot air balloon ride
-- 2 bungey jumps
-- 127 skydives
-
-## **_Objective_**
-
-- join a team that:
-  - has a mission focused on helping the end user
-  - plays as hard as they work
-  - values a strong work ethic
-  - embraces accountability
-  - works remote
+<div align='center'>
+  <table>
+    <tr>
+      <td>
+        <img src='./assets/fcc-javascript.png' width='450px'/>      
+      </td>      
+      <td>
+        <img src='./assets/fcc-frontend.png' width='450px'/>
+      </td>
+      <td>
+        <img src='./assets/fcc-responsive-design.png' width='450px'/>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src='./assets/udemy-stock-trading-1.jpg' width='450px'/>
+      </td>
+      <td>
+        <img src='./assets/udemy-javascript.jpg' width='450px'/>      
+      </td>
+      <td>
+        <img src='./assets/udemy-html-css-sass.jpg' width='450px'/>
+      </td>      
+    </tr>
+    <tr>     
+      <td>
+        <img src='./assets/tech_elevator.png' width='450px'/>
+      </td>      
+    </tr>    
+  </table>
+</div>
