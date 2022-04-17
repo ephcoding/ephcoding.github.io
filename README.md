@@ -7,14 +7,10 @@
     </td>
     <td>
       <ul>
-        <li> - [x] adf</li>
+        <li> - [x] every active tornado alert in real-time</li>
+        <li> - [ ] latest tornado-related news & updates</li>
+        <li> - [ ] eye-popping tornado stat visualizations</li>
       </ul>
-      <input type='checkbox' name='task' disabled> every active tornado alert in real-time</label>
-      <br/>
-      <input type='checkbox' disabled> latest tornado-related news & updates</input>
-      <br/>
-      <input type='checkbox' disabled> eye-popping tornado stat visualizations</input>    
-      <br/>
       <br/>
       <span><strong><em>SEE IT <a href='https://tornadoaction.com' target='_blank'>LIVE</a></em></strong></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span><strong><em>SEE THE <a href='https://github.com/ephbuilding/tornado-action' target='_blank'>CODE</a></em></strong></span>
     </td>
