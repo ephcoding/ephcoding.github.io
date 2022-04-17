@@ -6,7 +6,7 @@
       <img src='./assets/tornado-action.png' alt='tornadoaction.com'>
     </td>
     <td>
-      - [x] every active tornado alert in real-time
+      <input type='checkbox' name='task' disabled> every active tornado alert in real-time</label>
       <br/>
       <input type='checkbox' disabled> latest tornado-related news & updates</input>
       <br/>
