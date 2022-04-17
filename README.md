@@ -9,7 +9,7 @@
       <ul>
         <li> - [x] every active tornado alert in real-time</li>
         <li> - [ ] latest tornado-related news & updates</li>
-        <li> - [ ] eye-popping tornado stat visualizations</li>
+        <li> - [ ] eye-popping tornado stat graphics</li>
       </ul>
       <br/>
       <span><strong><em>SEE IT <a href='https://tornadoaction.com' target='_blank'>LIVE</a></em></strong></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span><strong><em>SEE THE <a href='https://github.com/ephbuilding/tornado-action' target='_blank'>CODE</a></em></strong></span>
@@ -20,10 +20,10 @@
       <img src='./assets/vortx.png' alt='vortx tornado stats api'>
     </td>
     <td>
-      <input type='checkbox' disabled> PostgreSQL database with stats for 70 years/65,000+ tornadoes</input>
-      <br/>
-      <input type='checkbox' disabled> REST/GraphQL API</input>
-      <br/>    
+      <ul>
+        <li> - [ ] PostgreSQL database with stats for 70 years/65,000+ tornadoes</li>
+        <li> - [ ] REST/GraphQL API</li>
+      </ul>   
       <br/>
       <span><strong><em>SEE IT <a href='https://github.com/ephbuilding/vortx' target='_blank'>CODE</a></em></strong>
     </td>
@@ -33,12 +33,11 @@
       <img src='./assets/alstr.png' alt='algo-trading system'>
     </td>
     <td>
-      <input type='checkbox' disabled> various trading strategy algorithms</input>
-      <br/>      
-      <input type='checkbox' disabled> market indicator utilities</input>
-      <br/>
-      <input type='checkbox' disabled> order execution triggers</input>
-      <br/>    
+      <ul>
+        <li> - [ ] various trading strategy algorithms</li>
+        <li> - [ ] market indicator utilities</li>
+        <li> - [ ] order execution triggers</li>
+      </ul> 
       <br/>
       <strong><em>SEE THE <a href='https://github.com/ephbuilding/alstr' target='_blank'>CODE</a></em></strong>
     </td>
@@ -48,14 +47,12 @@
       <img src='./assets/rovercam.png' alt='rovercam'>
     </td>
     <td>
-      <input type='checkbox' disabled> latest rover stats</input>
-      <br/>
-      <input type='checkbox' disabled> latest photos for each rover</input>
-      <br/>
-      <input type='checkbox' disabled> search a rover's photos by SOL (martian day)</input>
-      <br/>
-      <input type='checkbox' disabled> search a rover's photos by earth date</input>
-      <br/>
+      <ul>
+        <li> - [ ] latest rover stats</li>
+        <li> - [ ] latest photos for each rover</li>
+        <li> - [ ] search a rover's photos by SOL (martian day)</li>
+        <li> - [ ] search a rover's photos by earth date</li>
+      </ul> 
       <br/>
       <strong><em>SEE THE <a href='https://github.com/ephbuilding/rovercam' target='_blank'>CODE</a></em></strong>
     </td>
