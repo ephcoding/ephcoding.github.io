@@ -25,7 +25,7 @@
         <li> - [ ] REST/GraphQL API</li>
       </ul>   
       <br/>
-      <span><strong><em>SEE IT <a href='https://github.com/ephbuilding/vortx' target='_blank'>CODE</a></em></strong>
+      <span><strong><em>SEE THE <a href='https://github.com/ephbuilding/vortx' target='_blank'>CODE</a></em></strong>
     </td>
   </tr>
   <tr>
