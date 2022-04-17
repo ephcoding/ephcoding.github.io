@@ -6,13 +6,27 @@
       <img src='./assets/tornado-action.png' alt='tornadoaction.com'>
     </td>
     <td>
-      <a href='https://tornadoaction.com' target='_blank'>Tornado Action</a> shows you <strong><em>every</em></strong> active tornado alert (warnings & watches) in real-time.  Functionality will expand to include eye-catching data visualizations, up-to-date tornado-related news, and the ability to search every tornado event since 1950!
+      <input type='checkbox' checked disabled> every active tornado alert in real-time</input>
+      <br/>
+      <input type='checkbox' disabled> latest tornado-related news & updates</input>
+      <br/>
+      <input type='checkbox' disabled> eye-popping tornado stat visualizations</input>    
       <br/>
       <br/>
-      <em>Check it out now at <a href='https://tornadoaction.com' target='_blank'>tornadoaction.com</a>!</em>
+      <span><strong><em>SEE IT <a href='https://tornadoaction.com' target='_blank'>LIVE</a></em></strong></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span><strong><em>SEE THE <a href='https://github.com/ephbuilding/tornado-action' target='_blank'>CODE</a></em></strong></span>
+    </td>
+  </tr>
+  <tr>
+    <td width='200px'>
+      <img src='./assets/vortx.png' alt='vortx tornado stats api'>
+    </td>
+    <td>
+      <input type='checkbox' disabled> PostgreSQL database with stats for 70 years/65,000+ tornadoes</input>
       <br/>
+      <input type='checkbox' disabled> REST/GraphQL API</input>
+      <br/>    
       <br/>
-      <em>See the <a href='https://github.com/ephbuilding/tornado-action' target='_blank'>code</a>.</em>
+      <span><strong><em>SEE IT <a href='https://github.com/ephbuilding/vortx' target='_blank'>CODE</a></em></strong>
     </td>
   </tr>
   <tr>
@@ -20,10 +34,31 @@
       <img src='./assets/alstr.png' alt='algo-trading system'>
     </td>
     <td>
-      <a href='https://github.com/ephbuilding/alstr' target='_blank'>ALSTR</a> is an algo-trading execution engine.  The current focus is on developing my own trading strategies and running them in real-time using a paper (fake money) account through <a href='https://alpaca.markets/' target='_blank'>Alpaca</a>.
+      <input type='checkbox' disabled> various trading strategy algorithms</input>
+      <br/>      
+      <input type='checkbox' disabled> market indicator utilities</input>
+      <br/>
+      <input type='checkbox' disabled> order execution triggers</input>
+      <br/>    
+      <br/>
+      <strong><em>SEE THE <a href='https://github.com/ephbuilding/alstr' target='_blank'>CODE</a></em></strong>
+    </td>
+  </tr>
+  <tr>
+    <td width='200px'>
+      <img src='./assets/rovercam.png' alt='rovercam'>
+    </td>
+    <td>
+      <input type='checkbox' disabled> latest rover stats</input>
+      <br/>
+      <input type='checkbox' disabled> latest photos for each rover</input>
+      <br/>
+      <input type='checkbox' disabled> search a rover's photos by SOL (martian day)</input>
+      <br/>
+      <input type='checkbox' disabled> search a rover's photos by earth date</input>
       <br/>
       <br/>
-      <em>See the <a href='https://github.com/ephbuilding/alstr' target='_blank'>code.</a></em>
+      <strong><em>SEE THE <a href='https://github.com/ephbuilding/rovercam' target='_blank'>CODE</a></em></strong>
     </td>
   </tr>
 </table>
