@@ -38,7 +38,7 @@
     <td>
       <ul>
         <li> - [x] display every CONUS tornado warning/watch in real-time</li>
-        <li> - [x] integrate RSS feeds from the Storm Prediction Center for severe weather reports & alerts, mesoscale discussions, convective outlooks, and severe weather multi-media briefings</li>
+        <li> - [ ] integrate RSS feeds from the Storm Prediction Center for severe weather reports & alerts, mesoscale discussions, convective outlooks, and severe weather multi-media briefings</li>
         <li> - [ ] provide historical tornado event search functionality</li>
         <li> - [ ] display historical tornado tracks</li>
       </ul>
