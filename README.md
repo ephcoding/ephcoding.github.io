@@ -2,7 +2,7 @@
 
 <table align='center'>
   <tr>
-    <td width='200px'>
+    <td>
       <img src='./assets/alstr.png' alt='algo-trading system'>
     </td>
     <td>
@@ -18,7 +18,7 @@
     </td>
   </tr>
   <tr>
-    <td width='200px'>
+    <td>
       <img src='./assets/rovercam.png' alt='rovercam'>
     </td>
     <td>
@@ -34,7 +34,7 @@
     </td>
   </tr>
   <tr>
-    <td width='200px'>
+    <td>
       <img src='./assets/tornado-action.png' alt='tornadoaction.com'>
     </td>
     <td>
