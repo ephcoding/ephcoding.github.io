@@ -7,13 +7,14 @@
     </td>
     <td>
       <ul>
-        <li> - [ ] game-plan first mean-reversion strategy</li>
-        <li> - [ ] write unit tests</li>
-        <li> - [ ] code strategy</li>
-        <li> - [ ] run MR strategy in real-time in paper account</li>
+        <li>stock market trading strategy algorithms</li>
+        <li>trade execution indicators and triggers</li>
+        <li>backtesting</li>
       </ul>
       <br/>
-      <strong><em>SEE THE <a href='https://github.com/ephbuilding/alstr' target='_blank'>CODE</a></em></strong>
+      <div align='right'>
+        <strong><em>SEE THE <a href='https://github.com/ephbuilding/alstr' target='_blank'>CODE</a></em></strong>
+      </div>
     </td>
   </tr>
   <tr>
@@ -22,13 +23,14 @@
     </td>
     <td>
       <ul>
-        <li> - [ ] latest rover stats</li>
-        <li> - [ ] latest photos for each rover</li>
-        <li> - [ ] search a rover's photos by SOL (martian day)</li>
-        <li> - [ ] search a rover's photos by earth date</li>
+        <li>Mars Rover photos</li>
+        <li>latest photos from each rover</li>
+        <li>search a rover's photos by SOL or Earth date</li>
       </ul>
       <br/>
-      <strong><em>SEE THE <a href='https://github.com/ephbuilding/rovercam' target='_blank'>CODE</a></em></strong>
+      <div align='right'>
+        <strong><em>SEE THE <a href='https://github.com/ephbuilding/rovercam' target='_blank'>CODE</a></em></strong>
+      </div>
     </td>
   </tr>
   <tr>
@@ -37,13 +39,13 @@
     </td>
     <td>
       <ul>
-        <li> - [x] display every CONUS tornado warning/watch in real-time</li>
-        <li> - [ ] integrate RSS feeds from the Storm Prediction Center for severe weather reports & alerts, mesoscale discussions, convective outlooks, and severe weather multi-media briefings</li>
-        <li> - [ ] provide historical tornado event search functionality</li>
-        <li> - [ ] display historical tornado tracks</li>
+        <li>active tornado warnings and watches from the National Weather Service</li>
+        <li>severe weather outlooks from the National Weather Service</li>
       </ul>
       <br/>
-      <span><strong><em>SEE IT <a href='https://tornadoaction.com' target='_blank'>LIVE</a></em></strong></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span><strong><em>SEE THE <a href='https://github.com/ephbuilding/tornado-action' target='_blank'>CODE</a></em></strong></span>
+      <div align='right'>
+        <span><strong><em>SEE IT <a href='https://tornadoaction.com' target='_blank'>LIVE</a></em></strong></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span><strong><em>SEE THE <a href='https://github.com/ephbuilding/tornado-action' target='_blank'>CODE</a></em></strong></span>
+      </div>
     </td>
   </tr>
 </table>
