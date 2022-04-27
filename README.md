@@ -18,9 +18,9 @@
 
 <br/>
 
-<table align='center'>
+<table>
   <tr>
-    <td width='320px'>
+    <td>
         <img  src='./assets/alstr.png' alt='algo-trading strategies'>
     </td>
     <td>
@@ -31,7 +31,7 @@
     </td>
   </tr>
   <tr>
-    <td width='320px'>
+    <td>
       <img  src='./assets/relative-income.png' alt='relative income'>
     </td>
     <td>
@@ -43,7 +43,7 @@
     </td>
   </tr>
   <tr>
-    <td width='320px'>
+    <td>
         <img  src='./assets/tornado-action.png' alt='tornado action'>
     </td>
     <td>
