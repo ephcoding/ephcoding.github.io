@@ -1,51 +1,59 @@
 ![active projects section](./assets/active-projects.png)
 
 <table align='center'>
+<!-- ROW 1: thumbnails -->
   <tr>
     <td>
-      <img src='./assets/alstr.png' alt='algo-trading system'>
+      <img src='./assets/alstr.png' alt='algo-trading strategies'>
     </td>
     <td>
-      <ul>
-        <li>stock market trading strategy algorithms</li>
-        <li>trade execution indicators and triggers</li>
-        <li>backtesting</li>
-      </ul>
-      <br/>
-      <div align='right'>
-        <strong><em>SEE THE <a href='https://github.com/ephbuilding/alstr' target='_blank'>CODE</a></em></strong>
-      </div>
+      <img src='./assets/relative-income.png' alt='relative income'>
     </td>
   </tr>
+  <!-- ROW 2: features -->
+  <tr>
+    <td>
+      <p>personal stock-trading algorithms</p>
+    </td>
+    <td>
+      <p>"wealth" is a ratio.  not a dollar amount.</p>
+    </td>
+  </tr>
+  <!-- ROW 3: links -->
+  <tr>
+    <td>
+      <strong><em>SOURCE <a href='https://github.com/ephbuilding/alstr' target='_blank'>CODE</a></em></strong>
+    </td>
+    <td>
+      <strong><em>SEE IT <a href='https://relativeincome.com' target='_blank'>LIVE</a></em></strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <strong><em>SOURCE <a href='https://github.com/ephbuilding/relative-income' target='_blank'>CODE</a></em></strong>
+    </td>
+  </tr>
+  <!-- ROW 4: thumbnails -->
   <tr>
     <td>
       <img src='./assets/rovercam.png' alt='rovercam'>
     </td>
     <td>
-      <ul>
-        <li>Mars Rover photos</li>
-        <li>latest photos from each rover</li>
-        <li>search a rover's photos by SOL or Earth date</li>
-      </ul>
-      <br/>
-      <div align='right'>
-        <strong><em>SEE THE <a href='https://github.com/ephbuilding/rovercam' target='_blank'>CODE</a></em></strong>
-      </div>
+      <img src='./assets/tornado-action.png' alt='tornado action'>
     </td>
   </tr>
+  <!-- ROW 5: features -->
   <tr>
     <td>
-      <img src='./assets/tornado-action.png' alt='tornadoaction.com'>
+      <p>explore Mars Rover photos</p>
     </td>
     <td>
-      <ul>
-        <li>active tornado warnings and watches from the National Weather Service</li>
-        <li>severe weather outlooks from the National Weather Service</li>
-      </ul>
-      <br/>
-      <div align='right'>
-        <span><strong><em>SEE IT <a href='https://tornadoaction.com' target='_blank'>LIVE</a></em></strong></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span><strong><em>SEE THE <a href='https://github.com/ephbuilding/tornado-action' target='_blank'>CODE</a></em></strong></span>
-      </div>
+      <p>tornado activity "command center"</p>
+    </td>
+  </tr>
+  <!-- ROW 6: links -->
+  <tr>
+    <td>
+      <span><strong><em>SEE IT <a href='https://rovercamapp.com' target='_blank'>LIVE</a></em></strong></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span><strong><em>SOURCE <a href='https://github.com/ephbuilding/rovercam' target='_blank'>CODE</a></em></strong></span>
+    </td>
+    <td>
+      <span><strong><em>SEE IT <a href='https://tornadoaction.com' target='_blank'>LIVE</a></em></strong></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span><strong><em>SOURCE <a href='https://github.com/ephbuilding/tornadoaction' target='_blank'>CODE</a></em></strong></span>
     </td>
   </tr>
 </table>
