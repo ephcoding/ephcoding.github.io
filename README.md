@@ -21,7 +21,7 @@
 <table>
   <tr>
     <td>
-        <img  src='./assets/alstr.png' alt='algo-trading strategies'>
+        <img width='320'  src='./assets/alstr.png' alt='algo-trading strategies'>
     </td>
     <td>
         <p>personal stock-trading algorithms</p>
@@ -32,7 +32,7 @@
   </tr>
   <tr>
     <td>
-      <img  src='./assets/relative-income.png' alt='relative income'>
+      <img width='320'  src='./assets/relative-income.png' alt='relative income'>
     </td>
     <td>
       <p>wealth is a ratio.  not a dollar amount.</p>
@@ -44,7 +44,7 @@
   </tr>
   <tr>
     <td>
-        <img  src='./assets/tornado-action.png' alt='tornado action'>
+        <img width='320'  src='./assets/tornado-action.png' alt='tornado action'>
     </td>
     <td>
         <p>tornado activity "command center"</p>
