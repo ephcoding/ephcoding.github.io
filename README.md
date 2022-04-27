@@ -24,7 +24,7 @@
         <img width='320'  src='./assets/alstr.png' alt='algo-trading strategies'>
     </td>
     <td>
-        <p>personal stock-trading algorithms</p>
+        <p align='center'>personal stock-trading algorithms</p>
         <div align='center'>
           <strong><em>SOURCE <a href='https://github.com/ephbuilding/alstr' target='_blank'>CODE</a></em></strong>
         </div>
@@ -35,7 +35,7 @@
       <img width='320'  src='./assets/relative-income.png' alt='relative income'>
     </td>
     <td>
-      <p>wealth is a ratio.  not a dollar amount.</p>
+      <p align='center'>wealth is a ratio.  not a dollar amount.</p>
       <div align='center'>
         <strong><em>SEE IT <a href='https://relativeincome.com' target='_blank'>LIVE</a></em></strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <strong><em>SOURCE <a href='https://github.com/ephbuilding/relative-income' target='_blank'>CODE</a></em></strong>
@@ -47,7 +47,7 @@
         <img width='320'  src='./assets/tornado-action.png' alt='tornado action'>
     </td>
     <td>
-        <p>tornado activity "command center"</p>
+        <p align='center'>tornado activity "command center"</p>
         <div align='center'>
           <strong><em>SEE IT <a href='https://tornadoaction.com' target='_blank'>LIVE</a></em></strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong><em>SOURCE <a href='https://github.com/ephbuilding/tornadoaction' target='_blank'>CODE</a></em></strong>
         </div>
