@@ -1,64 +1,6 @@
 ![active projects section](./assets/active-projects.png)
 
-<table align='center'>
-<!-- ROW 1: thumbnails -->
-  <tr>
-    <td>
-      <img src='./assets/alstr.png' alt='algo-trading strategies'>
-    </td>
-    <td>
-      <img src='./assets/relative-income.png' alt='relative income'>
-    </td>
-  </tr>
-  <!-- ROW 2: features -->
-  <tr>
-    <td>
-      <p>personal stock-trading algorithms</p>
-    </td>
-    <td>
-      <p>"wealth" is a ratio.  not a dollar amount.</p>
-    </td>
-  </tr>
-  <!-- ROW 3: links -->
-  <tr>
-    <td>
-      <strong><em>SOURCE <a href='https://github.com/ephbuilding/alstr' target='_blank'>CODE</a></em></strong>
-    </td>
-    <td>
-      <strong><em>SEE IT <a href='https://relativeincome.com' target='_blank'>LIVE</a></em></strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <strong><em>SOURCE <a href='https://github.com/ephbuilding/relative-income' target='_blank'>CODE</a></em></strong>
-    </td>
-  </tr>
-  <!-- ROW 4: thumbnails -->
-  <tr>
-    <td>
-      <img src='./assets/rovercam.png' alt='rovercam'>
-    </td>
-    <td>
-      <img src='./assets/tornado-action.png' alt='tornado action'>
-    </td>
-  </tr>
-  <!-- ROW 5: features -->
-  <tr>
-    <td>
-      <p>explore Mars Rover photos</p>
-    </td>
-    <td>
-      <p>tornado activity "command center"</p>
-    </td>
-  </tr>
-  <!-- ROW 6: links -->
-  <tr>
-    <td>
-      <span><strong><em>SEE IT <a href='https://rovercamapp.com' target='_blank'>LIVE</a></em></strong></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span><strong><em>SOURCE <a href='https://github.com/ephbuilding/rovercam' target='_blank'>CODE</a></em></strong></span>
-    </td>
-    <td>
-      <span><strong><em>SEE IT <a href='https://tornadoaction.com' target='_blank'>LIVE</a></em></strong></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span><strong><em>SOURCE <a href='https://github.com/ephbuilding/tornadoaction' target='_blank'>CODE</a></em></strong></span>
-    </td>
-  </tr>
-</table>
-
-<div align='center'>
+<div align='right'>
   <a href='https://twitter.com/ephbuilding' alt='social link icon'>
     <img src='./assets/icon-tw.svg' height='20'/>
   </a>
@@ -70,13 +12,68 @@
   &nbsp;
   &nbsp;
   <a href='mailto:email@ephraimsmith.dev' alt='social link icon'>
-    <img src='./assets/icon-at.svg' height='20'/>
+    <img src='./assets/icon-env.svg' height='20'/>
   </a>
 </div>
 
 <br/>
 
+<table align='center'>
+  <tr>
+    <td width='320px'>
+        <img  src='./assets/alstr.png' alt='algo-trading strategies'>
+    </td>
+    <td>
+        <p>personal stock-trading algorithms</p>
+        <div align='center'>
+          <strong><em>SOURCE <a href='https://github.com/ephbuilding/alstr' target='_blank'>CODE</a></em></strong>
+        </div>
+    </td>
+  </tr>
+  <tr>
+    <td width='320px'>
+      <img  src='./assets/relative-income.png' alt='relative income'>
+    </td>
+    <td>
+      <p>wealth is a ratio.  not a dollar amount.</p>
+      <div align='center'>
+        <strong><em>SEE IT <a href='https://relativeincome.com' target='_blank'>LIVE</a></em></strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <strong><em>SOURCE <a href='https://github.com/ephbuilding/relative-income' target='_blank'>CODE</a></em></strong>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width='320px'>
+        <img  src='./assets/tornado-action.png' alt='tornado action'>
+    </td>
+    <td>
+        <p>tornado activity "command center"</p>
+        <div align='center'>
+          <strong><em>SEE IT <a href='https://tornadoaction.com' target='_blank'>LIVE</a></em></strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong><em>SOURCE <a href='https://github.com/ephbuilding/tornadoaction' target='_blank'>CODE</a></em></strong>
+        </div>
+    </td>
+  </tr>
+</table>
+
 ![always learning section graphic](./assets/always-learning.png)
+
+<div align='right'>
+  <a href='https://twitter.com/ephbuilding' alt='social link icon'>
+    <img src='./assets/icon-tw.svg' height='20'/>
+  </a>
+  &nbsp;
+  &nbsp;
+  <a href='https://linkedin.com/in/ephbuilding' alt='social link icon'>
+    <img src='./assets/icon-li.svg' height='20'/>
+  </a>
+  &nbsp;
+  &nbsp;
+  <a href='mailto:email@ephraimsmith.dev' alt='social link icon'>
+    <img src='./assets/icon-env.svg' height='20'/>
+  </a>
+</div>
+
+<br/>
 
 <div align='center'>
   <table>
@@ -108,20 +105,4 @@
       </td>
     </tr>
   </table>
-</div>
-
-<div align='center'>
-  <a href='https://twitter.com/ephbuilding' alt='social link icon'>
-    <img src='./assets/icon-tw.svg' height='20'/>
-  </a>
-  &nbsp;
-  &nbsp;
-  <a href='https://linkedin.com/in/ephbuilding' alt='social link icon'>
-    <img src='./assets/icon-li.svg' height='20'/>
-  </a>
-  &nbsp;
-  &nbsp;
-  <a href='mailto:email@ephraimsmith.dev' alt='social link icon'>
-    <img src='./assets/icon-at.svg' height='20'/>
-  </a>
 </div>
